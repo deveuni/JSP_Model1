@@ -1,0 +1,31 @@
+
+	* 회원정보를 저장하는 객체 
+	MemberBean 
+	
+	* 회원정보 테이블 (fun_member)
+	- 아이디 (id) - PK
+	- 비밀번호 (pass) - NN
+	- 이름 (name) - NN
+	- 이메일 (email) - NN, UQ
+	- 생년월일 (birth) - NN
+	- 성별 (gender) - NN
+	- 주소 (addr)
+	- 전화번호 (phone)
+	- 휴대폰 (mobile)
+	- 회원가입일 (reg_date)
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
